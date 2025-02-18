@@ -179,11 +179,6 @@ This script performs a series of tasks:
 
 That's it. Now you can take a look at the ```dist``` directory where you'll find the bundled code.
 
-## Acknowledgements
-
-- Special thanks to [@awran5](https://github.com/awran5) for the [react-floating-whatsapp](https://github.com/awran5/react-floating-whatsapp) component, which served as a base for this enhanced version.
-- Gratitude to [@darwinva97](https://github.com/darwinva97) for the [PR](https://github.com/awran5/react-floating-whatsapp/pull/27) contributing improvements in accessibility and SEO through `aria-hidden` attribute modifications.
-
 ### License
 
-[MIT License](LICENSE) © 2024
+[MIT License](LICENSE) © 2025
